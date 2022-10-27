@@ -1,2 +1,5 @@
-# DIO-Desafio-GitHub-Meu-primeiro-repositorio
-Meu Primeiro Desafio do projeto GitHub da DIO
+# Meu Desafio de projeto git/github
+Repositorio para armazenar meu projeto/DIO
+
+## Links úteis
+[formas de contato](https://www.instagram.com/oii.wyatt/)
